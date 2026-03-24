@@ -1,0 +1,9 @@
+Sireesha Ambapuram - Resume Placeholder
+
+Replace this file with your actual resume (PDF recommended).
+
+Suggested file name:
+sireesha_324.pdf
+
+Then update the link in index.html if needed:
+href="assets/sireesha_324.pdf"
